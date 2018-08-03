@@ -1,0 +1,72 @@
+[Form_SelectionDialog]
+Caption=OpenSDE - Grafiek Editor
+DomainModel=Domein model
+SelectedItems=Geselecteerde items
+
+[Actions]
+AddToList_Caption=&Toevoegen aan selectie
+AddToList_Hint=Toevoegen aan selectie
+RemoveItemFrom_Caption=&Verwijderen item uit selectie
+RemoveItemFrom_Hint=Verwijderen item uit selectie
+MoveUp_Caption=Verplaats omhoog
+MoveUp_Hint=Verplaats omhoog
+MoveDown_Caption=Verplaats omlaag
+MoveDown_Hint=Verplaats omlaag
+Action_FullScreen_Caption=&Volledige scherm...
+Action_SelectAll_Caption=Selecteer &allemaal
+Action_SelectNone_Caption=Selecteer &geen
+Action_ShowEventOfPoint_Caption=&Ga naar event
+Action_Refresh_Caption=&Ververs
+Graph_Caption=&Grafiek...
+Graph_Hint=Grafiek
+
+[Warnings]
+OnlyXItemsAddedToSelection=Er zijn maar %d items toegevoegd aan de selectie
+
+[Form_Graph]
+Caption=OpenSDE - Grafiek
+
+[Graph]
+Text_Present=aanwezig
+Text_Unknown=onbekend
+Text_Absent=afwezig
+Text_On=op
+Text_Normal=normaal
+Text_Marked=gemarkeerd
+Text_Comment=commentaar
+Text_Value=waarde
+Text_MainComplaint=hoofd klacht
+Text_TimeStamp=tijdsstempel
+Text_DataItem=data item
+
+[General]
+Caption_Options=Opties
+Caption_ReferenceTimeStamp=Referentie tijdsstempel:
+Caption_ReferenceTimeStamp_ContactDateTime=Kontakt datum tijd
+Caption_ReferenceTimeStamp_DateOfBirth=Geboortedatum
+Caption_ReferenceAlwaysVisible=Referentie tijdsstempel zichtbaar:
+Caption_TimeFrame=Tijdvak (maanden):
+Caption_TimeFrameVisible=Complete tijdvak zichtbaar:
+Caption_DrawMode=Teken stijl:
+Caption_DrawMode_Lines=Lijnen
+Caption_DrawMode_Curves=Curves
+Caption_ShowMargins=Toon marges:
+Caption_GraphHeight=Grafiek hoogte:
+Caption_SeparateGraphs=Aparte grafieken:
+OnlyFromThisDomainModel=Alleen uit dit domeinmodel:
+Button_Cancel=Annuleer
+Button_Close=Afsluiten
+Button_OK=OK
+
+[Messages]
+IncompleteModeledDomainModelItemList=De volgende items zijn niet volledig gemodeleerd in het domein model en kunnen resulteren in verkeerde grafieken:
+IncompatibleItemList=De volgende items zijn niet inbegrepen omdat ze niet geschikt zijn voor grafieken:
+ContainsBrokenLinks=Bevat verbroken koppelingen
+
+[Graphs]
+Years=Jaren
+Months=Maanden
+Weeks=Weken
+Days=Dagen
+Hours=Uren
+Minutes=Minuten

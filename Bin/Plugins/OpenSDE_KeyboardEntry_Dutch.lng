@@ -1,0 +1,21 @@
+[KeyboardEntry]
+FormCaption=Toetsenbord invoer
+Caption_SelectItem=Selecteer item
+Warning_NotAllCommandosCouldBeHandled=Niet alle opdrachten konden verwerkt worden
+
+[Actions]
+Action_Absent_Hint=Afwezig
+Action_Comment_Hint=Commentaar
+Action_MainComplaint_Hint=Hoofdklacht
+Action_Normal_Hint=Normaal
+Action_NumericValue_Hint=Numerieke waarde
+Action_Present_Hint=Aanwezig
+Action_Unknown_Hint=Onbekend
+
+[General]
+Button_Close=Sluit
+
+[MainForm]
+Action_ViewKeyboardEntry_Caption=&Toetsenbord invoer
+[DataTemplates]
+ItemText_Normal=<Normaal>

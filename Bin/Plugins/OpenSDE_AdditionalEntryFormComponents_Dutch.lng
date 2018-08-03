@@ -1,0 +1,43 @@
+[General]
+Caption_Close=Afsluiten
+Caption_OK=OK
+Caption_Cancel=Annuleer
+
+[Image]
+ComponentCaption=Afbeelding
+Form_Caption=Afbeelding
+Caption_Caption=Titel:
+Caption_FileName=Betandsnaam:
+Caption_Size=Grootte:
+Caption_Preview=Voorbeeld
+
+[InternetExplorer]
+ComponentCaption=Internet Explorer
+Caption_Form=Internet Explorer
+Caption_Caption=Titel:
+Caption_URL=URL:
+Caption_Width=Breedte:
+Caption_Height=Hoogte:
+
+[RichText]
+ComponentCaption=Richtext
+Caption_Form=RichText
+Caption_Caption=Titel:
+Caption_FileName=Bestandsnaam:
+Caption_Width=Breedte:
+Caption_Height=Hoogte:
+
+[ShellExecute]
+ComponentCaption=Bestandsuitvoer
+Caption_Form=Bestandsuitvoer
+Caption_Interface=Component:
+Caption_Interface_Button=Knop
+Caption_Interface_Hyperlink=Snelkoppeling
+Caption_Caption=Titel:
+Caption_Hint=Hint:
+Caption_FileName=Bestandsnaam:
+Caption_Parameters=Parameters:
+Format_OpenError=Fout: kan bestand "%s" niet openen.
+
+[EntryFormOptions]
+ComponentCaption=Formulier instellingen

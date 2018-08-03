@@ -1,0 +1,26 @@
+[MainForm]
+Caption_Visits=Visits
+Caption_Visits_Moment=Moment
+Caption_Visits_Spcialism=Specialism
+Caption_Visits_Author=Author
+Caption_Visits_Description=Description
+Caption_Details=Details
+Caption_PatientName=Patient name:
+Caption_PatientId=Patient Identification:
+Caption_Gender=Gender:
+Caption_DateOfBirth=Date of birth:
+Caption_Author=Author:
+Caption_ContactMoment=Contact moment:
+Caption_SavedAt=Save at:
+Caption_Content=Content:
+
+[General]
+Caption_Close=Close
+
+[Actions]
+Hint_First=First
+Hint_Next=Next
+Hint_Previous=Previous
+Hint_Last=Last
+Hint_Refresh list=Refresh list
+

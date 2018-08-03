@@ -1,0 +1,22 @@
+[Actions]
+Back_Caption=< &Vorige
+Next_Caption=&Volgende >
+Cancel_Caption=Annuleer
+Help_Caption=&Help...
+Finish_Caption=&Einde
+
+[DataPanel]
+Caption=Patient gegevens
+
+[Main]
+FormCaption=OpenSDE - Vragenlijst
+AskToSaveData=Gegevens bewaren?
+
+[ProgressPanel]
+Caption=Voortgang
+
+[QuestionPanel]
+Caption=Vraag
+
+[Messages]
+NoValidSurveysFound=Geen geldige vragenlijsten gevonden voor dit domein model

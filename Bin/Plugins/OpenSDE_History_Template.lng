@@ -1,0 +1,21 @@
+[MainForm]
+Caption=OpenSDE - History Editor
+DomainModel=Domainmodel
+SelectedItems=Selected items
+
+[Actions]
+AddToList_Caption=&Add to selection
+AddToList_Hint=Add to selection
+RemoveItemFrom_Caption=&Remove item from selection
+RemoveItemFrom_Hint=Remove item from selection
+MoveUp_Caption=Move &up
+MoveUp_Hint=Move up
+MoveDown_Caption=Move &down
+MoveDown_Hint=Move down
+ShowFullScreen_Caption=Show &fullscreen...
+ShowFullScreen_Hint=Show fullscreen
+
+[Form_History]
+Caption=OpenSDE - History
+TimeFrame=Timeframe (months):
+

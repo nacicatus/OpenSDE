@@ -1,0 +1,68 @@
+[OverviewsForm]
+Hint_DataCheckLists=Gegevens-controllelijsten
+Text_ShowSkippedDataChecklistItems=Toon alleen overgeslagen
+Text_ShowAllDataChecklistItems=Toon allemaal
+Text_Error=Fout
+Text_Warning=Waarschuwing
+Text_WarningMessage=Dit item is vereist voor gegevens-controllelijst
+
+[MainForm]
+Action_DataCheckListEditor_Caption=&Gegevens-controllelijst editor...
+Action_DataCheckListEditor_Hint=Gegevens-controllelijst editor
+
+[DataCheckListEditor]
+Form_Caption=OpenSDE - Gegevens-controllelijst editor
+Caption_DomainModelTree=Domein model:
+Caption_DataCheckLists=Gegevens-controllelijsten:
+Caption_SelectedItems=Geselecteerde items:
+Hint_NewDataCheckList=Nieuwe gegegevens-conrtollelijst
+Hint_DeleteDataCheckList=Verwijder gegevens-controllelijst
+Caption_DeleteDataCheckList=Verwijder gegevens-controllelijst...
+Hint_Properties=Eigenschappen
+Caption_Properties=&Eigenschappen...
+Hint_AddToList=Toevoegen aan lijst
+Caption_AddToList=Toevoegen aan lijst
+Hint_RemoveFromList=Verwijderen uit lijst
+Caption_RemoveFromList=Verwijderen uit lijst
+Hint_Up=Omhoog
+Caption_Up=Omhoog
+Hint_Down=Omlaag
+Caption_Down=Omlaag
+Caption_Save=Bewaren
+Hint_Save=Bewaren
+CheckList_Header_Name=Naam
+CheckList_Header_Location=Lokatie
+CheckList_Header_OverviewHeader=Overzichts kop
+CheckList_Header_DefaultItemMessage=Standaard melding
+CheckList_Header_Conditioned=Geconditioneerd
+Selected_Header_Item=Item
+Selected_Header_Effect=Effekt
+Selected_Header_Message=Melding
+Message_NotAllItemsEnteredContinueSave=Niet alle onderdelen van de controllelijsten zijn ingevoerd. Doorgaan met bewaren?
+Message_UnsupportedFileFormat=Het bestandsformaat van de gegevens controllelijsten wordt niet ondersteund. Verwijderen?
+Text_BrokenLink=<Verbroken koppeling>
+Text_UnreleasedItem=<Nog niet vrijgegeven>
+
+[CheckListProperties]
+Form_Caption=OpenSDE - Gegevens-controllelijst
+Caption_Name=Naam:
+Caption_Location=Lokatie:
+Caption_ListHeader=Lijst kop:
+Caption_DefaultItemMessage=Voorkeurs melding:
+Caption_Condition=Conditie:
+
+[CheckListItemProperties]
+Form_Caption=OpenSDE - Gegevens-controllelijst item
+Caption_Effect=Effekt:
+Caption_Message=Melding:
+
+[General]
+Effect_CheckListOnly=Alleen op controllelijst
+Effect_Error=Fout
+Effect_Warning=Waarschuwing
+Button_Cancel=Annuleer
+Button_OK=OK
+Caption_Cancel=Annuleer
+Caption_OK=OK
+CustomizationOnlyWithLatestVersion=Controlle lijsten kunnen alleen bewerkt worden bij het laatst beschikbaar gestelde domein model.
+SaveChanges=Veranderingen bewaren?

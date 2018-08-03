@@ -1,0 +1,19 @@
+[KeyboardEntry]
+FormCaption=Keyboard entry
+Caption_SelectItem=Select item
+Warning_NotAllCommandosCouldBeHandled=Not all commands could be handled
+
+[Actions]
+Action_Absent_Hint=Absent
+Action_Comment_Hint=Comment
+Action_MainComplaint_Hint=Main complaint
+Action_Normal_Hint=Normal
+Action_NumericValue_Hint=Numeric value
+Action_Present_Hint=Present
+Action_Unknown_Hint=Unknown
+
+[General]
+Button_Close=Sluit
+
+[MainForm]
+Action_ViewKeyboardEntry_Caption=&Keyboard entry

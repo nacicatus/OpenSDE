@@ -1,0 +1,27 @@
+[MainForm]
+Caption=OpenSDE - Visite verkenner
+Caption_Visits=Visites
+Caption_Visits_Moment=Moment
+Caption_Visits_Spcialism=Specialisme
+Caption_Visits_Author=Auteur
+Caption_Visits_Description=Omschrijving
+Caption_Details=Details
+Caption_PatientName=Patient naam:
+Caption_PatientId=Patient identificatie:
+Caption_Gender=Gelacht:
+Caption_DateOfBirth=Geboortedatum:
+Caption_Author=Auteur:
+Caption_ContactMoment=Visite moment:
+Caption_SavedAt=Opgeslagen op:
+Caption_Content=Inhoud:
+
+[General]
+Caption_Close=Afsluiten
+Caption_EventBrowser=&Visit browser...
+
+[Actions]
+Hint_First=Eerste
+Hint_Next=Volgende
+Hint_Previous=Vorige
+Hint_Last=Laatste
+Hint_Refresh list=Ververs lijst

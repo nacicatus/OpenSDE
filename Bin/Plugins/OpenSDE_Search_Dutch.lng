@@ -1,0 +1,21 @@
+[MainForm]
+Action_Find_Caption=&Zoek...
+Action_Find_Hint=Zoek
+
+[FindForm]
+Checkbox_AlsoInCodes=Ook in &coderingen
+Checkbox_AlsoInSynonyms=Ook in s&ynoniemen
+Checkbox_OnlyInEnteredData=&Alleen ingevoerde gegevens
+FormCaption=OpenSDE - Zoek
+Groupbox_Terms=Termen
+Groupbox_Paths=Paden
+Groupbox_SearchCriteria=Zoek-criteria:
+Label_SearchTerm=&Zoekterm:
+ListBoxHeader_Codes=Coderingen
+ListBoxHeader_Term=Term
+ListBoxHeader_Synonyms=Synoniemen
+Checkbox_OnlyInSubtree=Only in sub&tree
+
+[General]
+Button_OK=OK
+Button_Cancel=Annuleer

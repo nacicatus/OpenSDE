@@ -1,0 +1,21 @@
+[Actions]
+Action_ExportToMSWord_Caption=Exporteer naar MS-&Word...
+Action_ExportToMSWord_Hint=Exporteer naar MS-Word
+Action_MSWordTempplateEditor_Caption=MS-&Word sjabloon-editor...
+Action_MSWordTempplateEditor_Hint=MS-Word sjabloon-editor
+
+[General]
+Button_Cancel=&Annuleer
+Button_OK=OK
+CustomizationOnlyWithLatestVersion=Deze gebruikers-instellingen kunnen alleen veranderd worden met het meest recente vrijgegevendomeinmodel.
+
+[MSWord]
+FormCaption=OpenSDE - Selecteer MS-Word Sjabloon
+FormCaption_Busy=OpenSDE - Bezig...
+Message_FieldsAreBeingReplaced=Velden worden vervangen...
+Message_NoFieldsFound=Geen velden in het document gevonden
+Message_NoTemplatesFound=Geen MS-Word sjablonen gevonden
+Message_OpeningDocument=Openen van document
+Message_Startup=MS-Word wordt opgestart
+Message_WordNotInstalled=MS-Word niet gevonden
+

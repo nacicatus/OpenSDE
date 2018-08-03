@@ -1,0 +1,22 @@
+[Actions]
+Back_Caption=< &Back
+Next_Caption=&Next >
+Cancel_Caption=Cancel
+Help_Caption=&Help...
+Finish_Caption=&Finish
+
+[DataPanel]
+Caption=Patient data
+
+[Main]
+FormCaption=OpenSDE - Survey
+AskToSaveData=Save data?
+
+[ProgressPanel]
+Caption=Progress
+
+[QuestionPanel]
+Caption=Question
+
+[Messages]
+NoValidSurveysFound=No valid surveys found for this domain model

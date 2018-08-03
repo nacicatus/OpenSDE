@@ -1,0 +1,65 @@
+[Form_SelectionDialog]
+Caption=OpenSDE - Graph Editor
+DomainModel=Domainmodel
+SelectedItems=Selected items
+
+[Actions]
+AddToList_Caption=&Add to selection
+AddToList_Hint=Add to selection
+RemoveItemFrom_Caption=&Remove item from selection
+RemoveItemFrom_Hint=Remove item from selection
+MoveUp_Caption=Move &up
+MoveUp_Hint=Move up
+MoveDown_Caption=Move &down
+MoveDown_Hint=Move down
+Graph_Caption=&Graph...
+Graph_Hint=Graph
+
+[Warnings]
+OnlyXItemsAddedToSelection=Only %d items added to selection
+
+[Form_Graph]
+Caption=OpenSDE - Graph
+
+[Graph]
+Text_Present=present
+Text_Unknown=unknown
+Text_Absent=absent
+Text_On=on
+Text_Normal=normal
+Text_Marked=marked
+Text_Comment=comment
+Text_Value=value
+Text_MainComplaint=main complaint
+Text_TimeStamp=time stamp
+Text_DataItem=data item
+
+[General]
+Caption_Options=Options
+Caption_ReferenceTimeStamp=Reference timestamp:
+Caption_ReferenceTimeStamp_ContactDateTime=Contact date time
+Caption_ReferenceTimeStamp_DateOfBirth=Date of birth
+Caption_ReferenceAlwaysVisible=Reference timestamp visible:
+Caption_TimeFrame=Time frame (months):
+Caption_TimeFrameVisible=Complete time frame visible:
+Caption_DrawMode=Draw mode:
+Caption_DrawMode_Lines=Lines
+Caption_DrawMode_Curves=Curves
+Caption_ShowMargins=Show margins:
+Caption_GraphHeight=Graph height:
+Caption_SeparateGraphs=Separate graphs:
+OnlyFromThisDomainModel=Only from this domain model:
+
+[Messages]
+IncompleteModeledDomainModelItemList=The following numeric items are not completely modeled in the domainmodel and can cause corrupt graph:
+IncompatibleItemList=The items are not included because they are not suitable for graphs:
+ContainsBrokenLinks=Contains broken links
+
+[Graphs]
+Years=Years
+Months=Months
+Weeks=Weeks
+Days=Days
+Hours=Hours
+Minutes=Minutes
+

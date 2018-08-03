@@ -1,0 +1,16 @@
+[MainForm]
+Action_Find_Caption=&Find...
+Action_Find_Hint=Find
+
+[FindForm]
+Checkbox_AlsoInCodes=Also in &codes
+Checkbox_AlsoInSynonyms=Also in s&ynonyms
+Checkbox_OnlyInEnteredData=&Only in entered data
+FormCaption=OpenSDE - Find
+Groupbox_Terms=Terms
+Groupbox_Paths=Paths
+Groupbox_SearchCriteria=Search criteria:
+Label_SearchTerm=&Search term:
+ListBoxHeader_Codes=Codes
+ListBoxHeader_Term=Term
+ListBoxHeader_Synonyms=Synonyms

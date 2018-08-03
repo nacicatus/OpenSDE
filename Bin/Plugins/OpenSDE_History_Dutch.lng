@@ -1,0 +1,31 @@
+[MainForm]
+Caption=OpenSDE - Historie Editor
+DomainModel=Domein model
+SelectedItems=Geselecteerde items
+
+[Actions]
+AddToList_Caption=&Toevoegen aan selectie
+AddToList_Hint=Toevoegen aan selectie
+RemoveItemFrom_Caption=&Verwijder uit selectie
+RemoveItemFrom_Hint=Verwijder uit selectie
+MoveUp_Caption=Verplaats omhoog
+MoveUp_Hint=Verplaats omhoog
+MoveDown_Caption=Verplaats omlaag
+MoveDown_Hint=Verplaats omlaag
+ShowFullScreen_Caption=Toon in &volledig scherm...
+ShowFullScreen_Hint=Toon in volledig scherm
+
+[Form_History]
+Caption=OpenSDE - Historie
+TimeFrame=Tijdvak (maanden):
+Caption_Refresh=Ververs
+
+[History]
+Caption_History=Historie
+
+[General]
+Caption_TimeFrame=Tijdvak (maanden)
+Caption_OnlyFromThisDomainModel=Alleen van dit domein model:
+Button_Cancel=Annuleer
+Button_Close=Afsluiten
+Button_OK=OK

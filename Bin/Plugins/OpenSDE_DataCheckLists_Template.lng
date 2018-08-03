@@ -1,0 +1,60 @@
+[OverviewsForm]
+Hint_DataCheckLists=Data checklists
+Text_ShowSkippedDataChecklistItems=Show skipped items only
+Text_ShowAllDataChecklistItems=Show all items
+Text_Error=Error
+Text_Warning=Warning
+Text_WarningMessage=This item is required for datachecklist
+
+[MainForm]
+Action_DataCheckListEditor_Caption=&Data checklists editor...
+Action_DataCheckListEditor_Hint=Data checklists editor
+[DataCheckListEditor]
+Form_Caption=OpenSDE - Data Checklist Editor
+Caption_DomainModelTree=Domain model:
+Caption_DataCheckLists=Data checklists:
+Caption_SelectedItems=Selected items:
+Hint_NewDataCheckList=New data checklist
+Hint_DeleteDataCheckList=Delete data checklist
+Caption_DeleteDataCheckList=Delete data checklist...
+Hint_Properties=Properties
+Caption_Properties=&Properties...
+Hint_AddToList=Add to list
+Caption_AddToList=Add to list
+Hint_RemoveFromList=Remove from list
+Caption_RemoveFromList=Remove from list
+Hint_Up=Up
+Caption_Up=Up
+Hint_Down=Down
+Caption_Down=Down
+Caption_Save=Save
+Hint_Save=Save
+CheckList_Header_Name=Name
+CheckList_Header_Location=Location
+CheckList_Header_OverviewHeader=Overview header
+CheckList_Header_DefaultItemMessage=Default item message
+CheckList_Header_Conditioned=Conditioned
+Selected_Header_Item=Item
+Selected_Header_Effect=Effect
+Selected_Header_Message=Message
+
+[CheckListProperties]
+Form_Caption=OpenSDE - Data checklist
+Caption_Name=Name:
+Caption_Location=Location:
+Caption_ListHeader=List header:
+Caption_DefaultItemMessage=Default item message:
+Caption_Condition=Condition:
+
+[CheckListItemProperties]
+Form_Caption=OpenSDE - Datachecklist Item
+Caption_Effect=Effect:
+ItemText_Effect_CheckListOnly=Checklist only
+ItemText_Effect_Error=Error
+ItemText_Effect_Warning=Warning
+Caption_Message=Message:
+
+[General]
+Captino_OK=OK
+Captino_Cancel=Cancel
+

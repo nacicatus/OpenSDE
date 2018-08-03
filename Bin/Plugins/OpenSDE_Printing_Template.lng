@@ -1,0 +1,11 @@
+[General]
+Button_OK=OK
+Button_Cancel=Cancel
+
+[MainForm]
+Action_Print_Caption=&Print...
+Action_Print_Hint=Print
+
+[Printing]
+Caption=OpenSDE - Printing
+

@@ -1,0 +1,121 @@
+[CheckBrokenLinks]
+Text_CustomEntryForms=Custom Entry Forms
+
+[CustomActionButtonProperties]
+FormCaption=OpenSDE - Custom Action Button Properties
+Label_Caption=Caption:
+Label_Action=Action:
+Label_Parameters=Parameters:
+
+[CustomEntryFormEditor]
+Caption_AddCustomEntryFormLink=Add custom entry form link
+Caption_AddDomainModelItemDefault=&Default
+Caption_AddDomainModelItemFullyExpand=Full &expanded
+Caption_AddDomainModelItemHyperlink=As &hyperlink
+Caption_AddDomainModelLabel=Add as &label
+Caption_AddLabel=Add &label
+Caption_AddNewLine=New &line
+Caption_CheckedForNewVersion=&Accept
+Caption_ComponentList=Components:
+Caption_Components=Components
+Caption_CustomEntryFormList=Custom entry forms:
+Caption_CustomEntryFormName=Enter a name for the custom entry form
+Caption_DeleteComponent=&Delete
+Caption_DeleteCustomEntryForm=&Delete
+Caption_Details=Details
+Caption_DomainModelItems=Domain model items:
+Caption_EntryFormLinks=Links:
+Caption_MoveComponentDown=&Down
+Caption_MoveComponentUp=&Up
+Caption_NewCustomEntryForm=New
+Caption_OpenCustomEntryForms=&Open
+Caption_Preview=Preview:
+Caption_Properties=&Properties
+Caption_RenameCustomEntryForm=Rename...
+Caption_SetAsDefaultEntryForm=Set as de&fault
+FormCaption=OpenSDE - Custom Form Editor
+FormCaption_RenameCustomEntryForm=Rename custom entry form
+Hint_AddCustomActionButton=Add custom action button
+Hint_AddCustomEntryFormLink=Add custom entry form link
+Hint_AddDomainModelItemDefault=Default
+Hint_AddDomainModelItemFullyExpand=Full expanded
+Hint_AddDomainModelItemHyperlink=As hyperlink
+Hint_AddDomainModelLabel=Add domain model label
+Hint_AddLabel=Add label
+Hint_AddNewLine=Add new line
+Hint_CheckedForNewVersion=Accept the form for new version of domain model
+Hint_DeleteComponent=Delete component
+Hint_DeleteCustomEntryForm=Delete custom entry form
+Hint_Indent=Indent
+Hint_LayoutView=Layout view
+Hint_MoveComponentDown=Move component down
+Hint_MoveComponentUp=Move component up
+Hint_NewCustomEntryForm=New custom entry form
+Hint_OpenCustomEntryForms=Open custom entry forms
+Hint_Properties=Properties
+Hint_RenameCustomEntryForm=Rename custom entry form
+Hint_SaveCustomEntryForms=Save custom entry forms
+Hint_SelectCustomEntryForm=Select custom entry form
+Hint_SetAsDefaultEntryForm=Set as default entry form
+Hint_SmallIndent=Small indent
+Hint_SmallUnIndent=Small unindent
+Hint_TotalView=Total view
+Hint_UnIndent=Unindent
+ItemText_BrokenLink=<Broken link>
+ItemText_DefaultEntryForm=<Default>
+ItemText_NewLine=<New line>
+Message_AreYouSureDeleteCustomEntryForm=Are you sure you want to delete the custom entry form "%s"?
+Message_RemoveBrokenLinks=This will also remove the broken links
+Message_UnsupportedFileFormat=Unsupported version of the custom entry forms found. Remove these previous custom entry forms?
+ItemText_NewSectionGroup=New sectiongroup
+ItemText_NextSection=Next section
+ItemText_EndSectionGroup=End sectiongroup
+Caption_AddHorizontalLine=Add horizontal line
+Hint_AddHorizontalLine=Add horizontal line
+Caption_AddCustomComponent=Add custom component
+Hint_AddCustomComponent=Add custom component
+Caption_AddCommentItem=Comment
+Hint_AddCommentItem=Add comment item
+Caption_AddChildrenItems=Children items
+Hint_AddChildrenItems=Add children items
+Caption_AddSingleItem=Single item
+Hint_AddSingleItem=Add single item
+Caption_AddLabeledCommentItem=Labeled comment
+Hint_AddLabeledCommentItem=Add labeled comment item
+Caption_NewSectionGroup=New section group
+Hint_NewSectionGroup=New section group
+Caption_NextSection=Next section
+Hint_NextSection=Next section
+Caption_EndSectionGroup=End section group
+Hint_EndSectionGroup=End section group
+
+[CustomEntryFormEditor_LabelProperties]
+Caption=Caption:
+FontBold=Bold
+FontColor=Color:
+FontItalic=Italic
+FontName=Font:
+FontSize=Size:
+FontStyles=Styles:
+FontUnderline=Underline
+FormCaption=OpenSDE Custom Form Editor - Label Properties
+Preview=Preview:
+
+[CustomEntryFormEditor_SelectCustomEntryForm]
+FormCaption=OpenSDE - Select Custom Entry Form
+ItemText_BrokenLink=<Broken link>
+ItemText_No=No
+ItemText_Yes=Yes
+ListBoxHeader_Checked=Checked
+ListBoxHeader_CustomEntryForm=Custom entry form
+ListBoxHeader_DomainModelItem=Domain model item
+
+[General]
+Button_Cancel=Cancel
+Button_OK=OK
+CustomizationOnlyWithLatestVersion=Customisation is only possible with the latest released domain model
+SaveChanges=Save changes?
+
+[MainForm]
+Action_CustomEntryFormEditor_Caption=&Editor...
+Action_CustomEntryFormEditor_Hint=Custom entry form editor

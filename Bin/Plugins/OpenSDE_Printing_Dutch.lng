@@ -1,0 +1,10 @@
+[General]
+Button_OK=OK
+Button_Cancel=Annuleer
+
+[MainForm]
+Action_Print_Caption=&Afdrukken...
+Action_Print_Hint=Afdrukken
+
+[Printing]
+Caption=OpenSDE - Afdrukken

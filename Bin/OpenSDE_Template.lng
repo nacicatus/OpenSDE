@@ -1,0 +1,484 @@
+[Actions]
+Action_Absent_Caption=&Absent
+Action_Absent_Hint=Absent
+Action_AddDescription_Caption=Add de&scription
+Action_AddDescription_Hint=Add description
+Action_AddMultipleInstance_Caption=Ne&w instance
+Action_AddMultipleInstance_Hint=New instance
+Action_AddProgressDescription_Caption=Add pro&gress description...
+Action_AddProgressDescription_Hint=Add progress description
+Action_AddToSummary_Caption=Add to summary
+Action_AddToSummary_Hint=Add to summary
+Action_Comment_Caption=&Comment...
+Action_Comment_Hint=Comment
+Action_EraseEnteredData_Caption=&Erase entered data
+Action_EraseEnteredData_Hint=Erase entered data
+Action_FileSave_Caption=&Save
+Action_FileSave_Hint=Save
+Action_FormatNewConceptName_Caption=Ne&w %s
+Action_FormatNewConceptName_Hint=New %s
+Action_FormatNewDescription_Caption=Ne&w description
+Action_FormatNewDescription_Hint=New description
+Action_FormatNewProgressDescription_Caption=Ne&w progress description...
+Action_FormatNewProgressDescription_Hint=New progress description
+Action_GotoBookmarks_Caption=&Go to bookmarks
+Action_LevelUp_Caption=Level &up
+Action_LevelUp_Hint=Level &up
+Action_MainComplaint_Caption=&Main complaint
+Action_MainComplaint_Hint=Main complaint
+Action_Marked_Caption=&Marked
+Action_Marked_Hint=Marked
+Action_MoveDown_Caption=Move &down
+Action_MoveDown_Hint=Down
+Action_MoveUp_Caption=Move &up
+Action_MoveUp_Hint=Up
+Action_Normal_Caption=&Normal
+Action_Normal_Hint=Normal
+Action_NumericValue_Caption=Numeric &value
+Action_NumericValue_Hint=Numeric value
+Action_Options_Caption=&Options...
+Action_Options_Hint=Options
+Action_Present_Caption=&Present
+Action_Present_Hint=Present
+Action_SaveDataTemplate_Caption=&Save subtree...
+Action_SaveDataTemplate_Hint=Save subtree as data template
+Action_ShowDataTemplates_Caption=Show &list...
+Action_ShowDataTemplates_Hint=Show data templates
+Action_ShowPicture_Caption=Show &picture
+Action_ShowPicture_Hint=Show picture
+Action_TimeStamp_Caption=&Timestamp...
+Action_TimeStamp_Hint=Timestamp
+Action_ToggleBookmarks_Caption=&Toggle bookmarks
+Action_Unknown_Caption=&Unknown
+Action_Unknown_Hint=Unknown
+Action_ViewDataOnly_Caption=&Only entered data
+Action_ViewDataOnly_Hint=Entered data only
+Action_CheckBrokenLinks_Caption=Check &broken links...
+Action_CheckBrokenLinks_Hint=Check broken links
+Action_ShowInfo_Hint=Show info
+Action_ShowInfo_Caption=Show &info
+
+[CheckBrokenLinks]
+Action_Delete_Caption=Delete
+Action_Delete_Hint=Delete
+Action_DeleteBrokenLinks_Caption=Delete broken links
+Action_DeleteBrokenLinks_Hint=Delete broken links
+Action_Edit_Caption=Edit...
+Action_Edit_Hint=Edit
+Action_Save_Caption=Save
+Action_Save_Hint=Save
+Caption_BrokenLinks=Broken links:
+FormCaption=OpenSDE - Check broken links
+Message_SaveChanges=Save changes?
+Text_None=<None>
+
+[CommentForm]
+Button_OK=&OK
+FormCaption=OpenSDE - Comment [%s]
+FormCaption_Summary=OpenSDE - Summary
+Hint_DeleteAll=Delete all
+
+[CustomActionButtonProperties]
+FormCaption=OpenSDE - Custom Action Button Properties
+Label_Caption=Caption:
+Label_Action=Action:
+Label_Parameters=Parameters:
+
+[CustomEntryFormEditor]
+Caption_AddCustomEntryFormLink=Add custom entry form link
+Caption_AddDomainModelItemDefault=&Default
+Caption_AddDomainModelItemFullyExpand=Full &expanded
+Caption_AddDomainModelItemHyperlink=As &hyperlink
+Caption_AddDomainModelLabel=Add as &label
+Caption_AddLabel=Add &label
+Caption_AddNewLine=New &line
+Caption_CheckedForNewVersion=&Accept
+Caption_ComponentList=Components:
+Caption_Components=Components
+Caption_CustomEntryFormList=Custom entry forms:
+Caption_CustomEntryFormName=Enter a name for the custom entry form
+Caption_DeleteComponent=&Delete
+Caption_DeleteCustomEntryForm=&Delete
+Caption_Details=Details
+Caption_DomainModelItems=Domain model items:
+Caption_EntryFormLinks=Links:
+Caption_MoveComponentDown=&Down
+Caption_MoveComponentUp=&Up
+Caption_NewCustomEntryForm=New
+Caption_OpenCustomEntryForms=&Open
+Caption_Preview=Preview:
+Caption_Properties=&Properties
+Caption_RenameCustomEntryForm=Rename...
+Caption_SetAsDefaultEntryForm=Set as de&fault
+FormCaption=OpenSDE - Custom Form Editor
+FormCaption_RenameCustomEntryForm=Rename custom entry form
+Hint_AddCustomActionButton=Add custom action button
+Hint_AddCustomEntryFormLink=Add custom entry form link
+Hint_AddDomainModelItemDefault=Default
+Hint_AddDomainModelItemFullyExpand=Full expanded
+Hint_AddDomainModelItemHyperlink=As hyperlink
+Hint_AddDomainModelLabel=Add domain model label
+Hint_AddTrendDataSet=Add trend dataset
+Hint_AddLabel=Add label
+Hint_AddNewLine=Add new line
+Hint_CheckedForNewVersion=Accept the form for new version of domain model
+Hint_DeleteComponent=Delete component
+Hint_DeleteCustomEntryForm=Delete custom entry form
+Hint_Indent=Indent
+Hint_LayoutView=Layout view
+Hint_MoveComponentDown=Move component down
+Hint_MoveComponentUp=Move component up
+Hint_NewCustomEntryForm=New custom entry form
+Hint_OpenCustomEntryForms=Open custom entry forms
+Hint_Properties=Properties
+Hint_RenameCustomEntryForm=Rename custom entry form
+Hint_SaveCustomEntryForms=Save custom entry forms
+Hint_SelectCustomEntryForm=Select custom entry form
+Hint_SetAsDefaultEntryForm=Set as default entry form
+Hint_SmallIndent=Small indent
+Hint_SmallUnIndent=Small unindent
+Hint_TotalView=Total view
+Hint_UnIndent=Unindent
+ItemText_BrokenLink=<Broken link>
+ItemText_DefaultEntryForm=<Default>
+ItemText_NewLine=<New line>
+ItemText_TrendDataset=Trend dataset
+Message_AreYouSureDeleteCustomEntryForm=Are you sure you want to delete the custom entry form "%s"?
+Message_RemoveBrokenLinks=This will also remove the broken links
+Message_UnsupportedFileFormat=Unsupported version of the custom entry forms found. Remove these previous custom entry forms?
+
+[CustomEntryFormEditor_LabelProperties]
+Caption=Caption:
+FontBold=Bold
+FontColor=Color:
+FontItalic=Italic
+FontName=Font:
+FontSize=Size:
+FontStyles=Styles:
+FontUnderline=Underline
+FormCaption=OpenSDE Custom Form Editor - Label Properties
+Preview=Preview:
+
+[CustomEntryFormEditor_SelectCustomEntryForm]
+FormCaption=OpenSDE - Select Custom Entry Form
+ItemText_BrokenLink=<Broken link>
+ItemText_No=No
+ItemText_Yes=Yes
+ListBoxHeader_Checked=Checked
+ListBoxHeader_CustomEntryForm=Custom entry form
+ListBoxHeader_DomainModelItem=Domain model item
+
+[DataTemplates]
+Caption_DataTemplateList=OpenSDE - Data templates
+Caption_SaveTemplate=OpenSDE - Save template for %s
+Error_ContainsError=Cannot save the data template because of the following error:
+FormCaption_RenameTemplate=Enter name...
+Groupbox_DataTemplates=Data templates:
+Groupbox_Paths=Paths:
+Hint_RenameDataTemplate=Rename
+ItemText_All=<All>
+ItemText_BrokenLink=<Broken link>
+ItemText_Normal=<Normal>
+Message_OverwriteDataTemplate=Overwrite this data template?
+Message_UnsupportedFileFormat=Unsupported version of the data templates found. Remove these previous data templates?
+Warning_DataTemplateDoesNotFit=This template did not fit completely in the current data
+Warning_NewerVersion=This data template is made with newer version of the domain model, please verify the data.
+Warning_NoEnteredData=No entered data to define as a data template
+Warning_NoPresentDataTree=The top item of the data template must be present
+Warning_OldVersionOfDomainModel=Not allowed to modify data templates in previous versions of the domain model
+Warning_OverwriteDataWithDataTemplate=This template can overwrite already entered data in this subtree
+Warning_OverwriteDataWithNormalTemplate=This normal template will overwrite the entered data of this subtree
+Warning_PreviousVersion=This data template is made with a previous version of the domain model, please verify the data.
+Caption_None=<None>
+Dialog_SelectDataTemplate=Select data template
+Warning_ContainsUnreleasedItems=Contains unreleased domain model items
+
+[EntryForm]
+Caption_CustomFormEditor=Custom form editor...
+FormCaption=Entry form
+Hint_CustomFormEditor=Custom form editor
+Hint_LevelUp=Level up
+Hint_PreviousEntryForm=Previous entry form
+Hint_Range=Range
+Hint_SetCurrentTimeStamp=Set current time-stamp
+Hint_SingleValue=Single value
+Label_More=more...
+Label_NotFurtherSpecified=Not further specified.
+NoSelection=<None>
+StandardEntryForm=<Standard entry form>
+Warning_OldForm=Warning: domain model changed, please check if the form is still valid.
+
+[General]
+Button_Abort=&Abort
+Button_All=&All
+Button_Cancel=Cancel
+Button_Close=Close
+Button_Help=&Help
+Button_Ignore=&Ignore
+Button_No=&No
+Button_NoToAll=N&o to all
+Button_OK=OK
+Button_Retry=&Retry
+Button_Yes=&Yes
+Button_YesToAll=Y&es to all
+Caption_Confirmation=Confirmation
+Caption_Error=Error
+Caption_Information=Information
+Caption_Warning=Warning
+CustomizationOnlyWithLatestVersion=Customisation is only possible with the latest released domain model
+Hint_Copy=Copy
+Hint_Cut=Cut
+Hint_Delete=Delete
+Hint_Paste=Paste
+Message_NoLinkFound=No link found
+SaveChanges=Save changes?
+TopNode=top
+Warning_ContainsWarningContinueSave=Patient data contains %d warning(s). Continue to save?
+Warning_DeleteAllData=Delete all entered data?
+Warning_DeleteSubTreeWithEnteredData=Delete subtree with entered data?
+Warning_MaximumNumberOfInstances=There can only be %s instances of this item
+Warning_SaveNotAvailableInDemoMode=Cannot save when in demo-mode
+
+[GeneralData]
+Label_Event=Event:
+Label_EventAuthor=Author:
+Label_EventDiscoveredAt=Discovered at:
+Label_EventInputMoment=Input at:
+Label_GenderFemale=Female
+Label_GenderMale=Male
+Label_GenderUnknown=Unknown
+Label_Patient=Patient:
+Label_PatientDateOfBirth=Date of birth:
+Label_PatientGender=Gender:
+Label_PatientId=PatientId:
+Label_PatientName=Name:
+Label_EventDescription=Description:
+
+[KeyboardEntry]
+Caption_SelectItem=Select item
+Warning_NotAllCommandosCouldBeHandled=Not all commandos could be handled
+
+[KeyboardEntryForm]
+FormCaption=Keyboard entry
+
+[MainForm]
+Action_CheckBrokenLinks_Caption=Check &broken links...
+Action_CheckBrokenLinks_Hint=Check broken links
+Caption=OpenSDE
+Demo=DEMO
+Hint_Close=Close
+Hint_Maximize=Maximize
+Hint_Restore=Restore
+MenuItem_CustomEntryForms=Custom entry &forms
+MenuItem_CustomFormEditor=&Editor...
+MenuItem_DataTemplates=Data &templates
+MenuItem_Edit=&Edit
+MenuItem_Exit=E&xit
+MenuItem_File=&File
+MenuItem_Help=&Help
+MenuItem_HelpAbout=&About...
+MenuItem_KeyboardEntry=&Keyboard entry
+MenuItem_Navigation=&Navigation
+MenuItem_Settings=&User
+MenuItem_View=&View
+MenuItem_ViewEntryForm=&Entry form
+MenuItem_ViewNavigator=&Navigator
+MenuItem_ViewOverviews=&Overviews
+MenuItem_ViewTaskPane=&Task pane
+
+[NavigatorForm]
+FormCaption=Navigator
+
+[Options]
+Button_Cancel=Cancel
+Button_DefaultColorsAndStyles=Default
+Button_OK=OK
+Caption_PluginDown=&Down
+Caption_PluginUp=&Up
+Checkbox_ExterndedPopupMenu=&Extended popup menu:
+CheckBox_HideSectionHeaders=Hide section headers:
+CheckBox_ShowCodes=Show co&des:
+CheckBox_ShowGeneralDataHint=Show &general data hint:
+CheckBox_ShowNotInstanciatedItems=Warning for &incomplete items:
+Checkbox_ShowSummaryAtStartup=Show summary at startup:
+DisableMultipleDescriptions=Disable multiple description:
+DisableMultipleInstances=Disable multiple instances:
+DisableProgressDescriptions=Disable progress description:
+DisableTimeStamps=Disable time stamps:
+ForceSingleValues=Force single values:
+Form_Caption=OpenSDE - Options
+FrameMode_Bump=Bump
+FrameMode_Default=Default
+FrameMode_Flat=Flat
+FrameMode_Groove=Groove
+FrameMode_Line=Line
+FrameMode_Modern=Modern
+FrameMode_OfficeXP=Office XP
+FrameMode_Raised=Raised
+FrameMode_Rounded=Rounded
+FrameMode_Win3x=Win3x
+ItemText_ColorItem_EntryForm=Form
+ItemText_ColorItem_EntryFormErrorWarning=Form - error/warning
+ItemText_ColorItem_EntryFormMessage=Form - message
+ItemText_ColorItem_EntryFormFrameHeader=Form - frame header
+ItemText_ColorItem_EntryFormHyperlink=Form - hyperlink
+ItemText_ColorItem_EntryFormLabel=Form - label
+ItemText_ColorItem_EntryFormMarkedFrameHeader=Form - marked frame header
+ItemText_ColorItem_EntryFormMarkedHyperlink=Form - marked hyperlink
+ItemText_ColorItem_EntryFormMarkedLabel=Form - marked label
+ItemText_ColorItem_EntryFormShortcut=Form - shortcut
+ItemText_ColorItem_Navigator=Navigator
+ItemText_ColorItem_NavigatorEnteredData=Navigator - entered data
+ItemText_ColorItem_NavigatorErrorWarning=Navigator - error/warning
+ItemText_ColorItem_NavigatorMessage=Navigator - message
+ItemText_ColorItem_NavigatorMarked=Navigator - marked
+ItemText_LongChildListHandling_Default=Default
+ItemText_LongChildListHandling_Hyperlink=Hyperlink
+ItemText_LongChildListHandling_TruncatedWithHyperlink=Truncated with hyperlink
+ItemText_LongChildListHandling_TwoRows=Listed in two rows
+Label_AlwaysShowCompleteTimeStamps=Always show complete timestamps:
+Label_BackgroundColor=Background:
+Label_Bold=&Bold
+Label_ColorAndStyleItems=Items:
+Label_Colors=Colors:
+Label_CoreEntitiesBold=Core entities bold:
+Label_DefaultFreeTextLines=Default number of free text lines:
+Label_EntryFormHistoryListSize=Entry form history list size:
+Label_FrameMode=Interface style:
+Label_ImageDirectory=&Image directory:
+Label_Italics=&Italics
+Label_Language=&Language:
+Label_LongChildListHandling=Handling for long child lists:
+Label_LongListSize=Long child list size:
+Label_Margin=&Margin:
+Label_ShowInvalidFormsWarnings=Show warning for invalid forms:
+Label_StrikeOut=&Strikeout
+Label_Styles=Styles:
+Label_TaskPaneDataTemplateCount=Number of data templates in taskpane:
+Label_TextColor=Text:
+Label_TextIndentation=Text indentation:
+Label_ThirdLevelExpanding=Third level expanding:
+Label_ThirdLevelVisualization=Visualisation:
+Label_Underline=&Underline
+Label_UseAlternativePresenceImages=Use alternative presence images:
+TabSheet_Appearance=Appearance
+TabSheet_ColorsAndStyles=Colors and styles
+TabSheet_EntryForms=Entry forms
+TabSheet_General=General
+TabSheet_Plugins=Plugins
+TabSheet_Research=Research
+Text_WillBeEffectedAfterRestart=*) Will be effected after restart of the OpenSDE
+ThirdLevelExpanding_AllNodeTypes=All node types
+ThirdLevelExpanding_None=None
+ThirdLevelExpanding_OnlyFeatures=Only features
+ThirdLevelVisualization_ShowBehindIt=Show behind it
+ThirdLevelVisualization_ShowInFrame=Show in frame
+Label_Font=Font
+Label_FontSize=Size:
+Label_FontName=Name:
+ItemText_ColorItem_EntryFormHeader1=Form - header 1
+ItemText_ColorItem_EntryFormHeader2=Form - header 2
+ItemText_ColorItem_EntryFormHeader3=Form - header 3
+ThirdLevelExpanding_DontChange=<Don't change>
+ThirdLevelVisualization_DontChange=<Don't change>
+ItemText_LongChildListHandling_DontChange=<Don't change>
+
+[OverviewsForm]
+FormCaption=Overviews
+Hint_General=General
+Hint_Marked=Marked data
+Hint_Messages=Messages
+Hint_Summary=Summary
+Hint_PatientProfile=Patient profile
+Hint_InsertSubTreeRichText=Insert subtree as text
+Hint_Bold=Bold
+Hint_Italic=Italic
+Hint_Underline=Underline
+
+[PathSelectionForm]
+FormCaption=OpenSDE - Select path
+
+[TaskPane]
+Action_AddDescription=Add description for %s
+Action_AddInstance=Add instance for %s
+Action_AddProgressDescription=Add progress description for %s
+Action_Edit=Edit
+FormCaption=Task pane
+Text_Actions=Actions
+Text_Bookmarks=Bookmarks
+Text_DataTemplates=Data templates
+Text_EntryForms=Entry forms
+Text_More=more...
+
+[TimeStampForm]
+FormCaption=OpenSDE - Timestamp [%s]
+Hint_Now=Now
+Label_ApplicableSince=Applicable since:
+
+[TrendDataSet]
+Text_Absent=absent
+Text_Comment=comment
+Text_DataItem=Data item
+Text_MainComplaint=main complaint
+Text_Marked=marked
+Text_MultipleInstancsAndDescriptionsCanNotBeShow=Multiple instances and descriptions cannot be shown in trend datasets
+Text_Normal=normal
+Text_On=on
+Text_Present=present
+Text_TimeStamp=Time stamp
+Text_Unknown=unknown
+Text_Value=value
+
+[TrendDataSetEditor]
+Caption_DomainModel=Domain model:
+Caption_TrendDatasetItems=Trend dataset items:
+FormCaption=OpenSDE - Trend dataset editor
+Hint_AddItem=Add item
+Hint_DeleteItem=Delete item
+Hint_DeleteTrendDataset=Delete trend dataset
+Hint_MoveDown=Move down
+Hint_Moveup=Move up
+Hint_NewTrendDataset=New trend dataset
+Hint_RenameTrendDataset=Rename trend dataset
+Hint_SaveTrendDatasets=Save trend datasets
+Text_BrokenLink=<Broken link>
+
+[Validation]
+Error_DataAfterAbsent=it's not allowed to have data after an absent
+Error_DateTimeTooEarly=moments must be after the year %s
+Error_DateTimeTooLate=dates must be before the year %s
+Error_DescriptionMandatory=description mandatory
+Error_DescriptionRequiresEvidence=description requires evidence
+Error_DuplicateTimeStampForProgressDescription=no identical moments are allowed for progress descriptions
+Error_InvalidDateTime=invalid moment
+Error_InvalidRange=invalid range for %s
+Error_NestedDescriptions=nested descriptions are not allowed
+Error_NestedMultipleInstances=nested multiple instances are not allowed
+Error_NestedProgressDescriptions=nested progress descriptions are not allowed
+Error_OnlyOnePresentChildAllowed=only one present child allowed
+Error_PresentAfterUnknown=it is not allowed to have a present after a unknown
+Label_Error=Error
+Label_Errors=Errors
+Label_Information=Information
+Label_Warning=Warning
+Label_Warnings=Warnings
+Warning_DateTimeInFuture=this moment is in the future
+Warning_InvalidFormComponent=Invalid component for current version of the domain model
+Warning_InvalidMargin=deviation of %s should be smaller than the main value
+Warning_InvalidRange=plausible values for %s are %s
+Warning_NegativeMargin=negative deviations are not allowed for %s
+Warning_PrimaryValueExpected=primary value expected for %s
+Warning_RemovedIfNotFurtherSpecified=this item will not be stored if not further specified
+Error_CalculationError=error in calculation of %s
+
+[TextGeneration]
+TextItem_Description=description
+TextItem_ItemOnTimeStamp=on
+TextItem_ItemAtTimeStamp=at
+Comment=comment
+Present=present
+Absent=absent
+Unknown=unknown
+TextItem_MainComplaintItem=main complaint
+TextItem_MarkedItem=marked
+TextItem_Normal=normal

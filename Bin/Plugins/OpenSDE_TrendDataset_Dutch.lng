@@ -1,0 +1,37 @@
+[Form_SelectionDialog]
+Caption=OpenSDE - Trend Dataset Selectie
+DomainModel=Domeinmodel
+SelectedItems=Geselecteerde items
+
+[Actions]
+AddToList_Caption=&Toevoegen aan selectie
+AddToList_Hint=Toevoegen aan selectie
+RemoveItemFrom_Caption=&Verwijderen item uit selectie
+RemoveItemFrom_Hint=Verwijderen item uit selectie
+MoveUp_Caption=Verplaats omhoog
+MoveUp_Hint=Verplaats omhoog
+MoveDown_Caption=Verplaats omlaag
+MoveDown_Hint=Verplaats omlaag
+
+[Warnings]
+OnlyXItemsAddedToSelection=Er zijn maar %d items toegevoegd aan de selectie
+
+[Form_TrendDataset]
+Caption=OpenSDE - Trend Dataset
+[General]
+Button_Cancel=Annuleer
+Button_Close=Afsluiten
+Button_OK=OK
+[TrendDataSet]
+Text_Absent=afwezig
+Text_Comment=commentaar
+Text_DataItem=Data item
+Text_MainComplaint=hoofdklacht
+Text_Marked=gemarkeerd
+Text_MultipleInstancsAndDescriptionsCanNotBeShow=Meervoudige beschrijvingen en instanties kunnen niet getoond worden
+Text_Normal=normaal
+Text_On=op
+Text_Present=aanwezig
+Text_TimeStamp=tijdsstempel
+Text_Unknown=onbekend
+Text_Value=waarde

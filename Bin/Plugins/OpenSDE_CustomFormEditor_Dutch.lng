@@ -1,0 +1,130 @@
+[CheckBrokenLinks]
+Text_CustomEntryForms=Persoonlijke formulieren
+
+[CustomActionButtonProperties]
+FormCaption=OpenSDE - Externe Aktie Knop
+Label_Caption=Text:
+Label_Action=Aktie:
+Label_Parameters=Parameters:
+
+[CustomEntryFormEditor]
+Caption_AddCustomEntryFormLink=Formulier koppeling toevoegen
+Caption_AddDomainModelItemDefault=&Standaard
+Caption_AddDomainModelItemFullyExpand=Volledig &uitgeklapt
+Caption_AddDomainModelItemHyperlink=Snelkoppeling
+Caption_AddDomainModelLabel=Als &label toevoegen
+Caption_AddLabel=&Label toevoegen
+Caption_AddNewLine=Nieuwe regel toevoegen
+Caption_CheckedForNewVersion=&Accepteer
+Caption_ComponentList=Componenten:
+Caption_Components=Componenten
+Caption_CustomEntryFormList=Persoonlijke formulieren:
+Caption_CustomEntryFormName=Voer de naam van het formulier in
+Caption_DeleteComponent=&Verwijder
+Caption_DeleteCustomEntryForm=&Verwijder
+Caption_Details=Details
+Caption_DomainModelItems=Domeinmodel:
+Caption_EntryFormLinks=Formulier koppelingen:
+Caption_MoveComponentDown=Om&laag
+Caption_MoveComponentUp=Om&hoog
+Caption_NewCustomEntryForm=Nieuw
+Caption_OpenCustomEntryForms=&Open
+Caption_Preview=Voorbeeld:
+Caption_Properties=&Eigenschappen...
+Caption_RenameCustomEntryForm=Hernoem...
+Caption_SetAsDefaultEntryForm=Markeer als voorkeursformulier
+FormCaption=OpenSDE - Persoonlijke formulieren editor
+FormCaption_RenameCustomEntryForm=Hernoem het formulier
+Hint_AddCustomEntryFormLink=Formulier koppeling toevoegen
+Hint_AddCustomActionButton=Knop toevoegen voor externe actie
+Hint_AddDomainModelItemDefault=Standaard
+Hint_AddDomainModelItemFullyExpand=Volledig uitgeklapt
+Hint_AddDomainModelItemHyperlink=Snelkoppeling
+Hint_AddDomainModelLabel=Als label toevoegen
+Hint_AddLabel=Label toevoegen
+Hint_AddNewLine=Nieuwe regel toevoegen
+Hint_CheckedForNewVersion=Accepteer het formulier voor nieuwe versie van het domeinmodel
+Hint_DeleteComponent=Verwijder component
+Hint_DeleteCustomEntryForm=Verwijder formulier
+Hint_Indent=Inspringen
+Hint_LayoutView=Opmaak overzicht
+Hint_MoveComponentDown=Verplaats component omlaag
+Hint_MoveComponentUp=Verplaats component omhoog
+Hint_NewCustomEntryForm=Nieuw formulier
+Hint_OpenCustomEntryForms=Open formulieren
+Hint_Properties=Eigenschappen
+Hint_RenameCustomEntryForm=Hernoem formulier
+Hint_SaveCustomEntryForms=Bewaren
+Hint_SelectCustomEntryForm=Selecteer persoonlijk formulier
+Hint_SetAsDefaultEntryForm=Markeer als voorkeursformulier
+Hint_SmallIndent=Stukje inspringen
+Hint_SmallUnIndent=Stukje terug springen
+Hint_TotalView=Compleet overzicht
+Hint_UnIndent=Terugspringen
+ItemText_BrokenLink=<Verbroken koppeling>
+ItemText_DefaultEntryForm=<Standaard>
+ItemText_NewLine=<Nieuwe regel>
+ItemText_UnreleasedItem=<Koppeling naar niet vrijgegeven item>
+Message_AreYouSureDeleteCustomEntryForm=Kan formulier "%s" verwijderd worden?
+Message_RemoveBrokenLinks=Hiermee worden ook de verbroken koppelingen verwijderd
+Message_UnsupportedFileFormat=Het bestandsformaat van de persoonlijke formulieren wordt niet ondersteund. Verouderde persoonlijke formulieren verwijderen?
+ItemText_NewSectionGroup=Nieuwe sectie groep
+ItemText_NextSection=Volgende sectie
+ItemText_EndSectionGroup=Beeindig sectie groep
+Caption_AddHorizontalLine=Horizontale lijn
+Hint_AddHorizontalLine=Horizontale lijn toevoegen
+Caption_AddCustomComponent=Externe extentie componenten
+Hint_AddCustomComponent=Externe extentie componenten
+Caption_AddCommentItem=Commentaar
+Hint_AddCommentItem=Commentaar toevoegen
+Caption_AddChildrenItems=Kinderen
+Hint_AddChildrenItems=Kinderen toevoegen
+Caption_AddSingleItem=Enkelvoudige item
+Hint_AddSingleItem=Enkelvoudige item toevoegen
+Caption_AddLabeledCommentItem=Gelabeled commentaar
+Hint_AddLabeledCommentItem=Gelabeled commentaar toevoegen
+Caption_NewSectionGroup=Nieuwe sectie groep
+Hint_NewSectionGroup=Nieuwe sectie groep
+Caption_NextSection=Volgenden sectie
+Hint_NextSection=Volgende sectie
+Caption_EndSectionGroup=Beeindig sectie groep
+Hint_EndSectionGroup=Beeindig sectie groep
+ItemText_CustomActionButton=Custom actie knop
+ItemText_HorizontalLine=Horizontal line
+ItemText_EntryFormLink=Entry Form Link
+Hint_EntryFormMoveUp=Move up
+Caption_EntryFormMoveUp=&Up
+Hint_EntryFormMoveDown=Move down
+Caption_EntryFormMoveDown=&Down
+
+[CustomEntryFormEditor_LabelProperties]
+Caption=Naam:
+FontBold=Vet
+FontColor=Kleur:
+FontItalic=Schuin
+FontName=Lettertype:
+FontSize=Grootte:
+FontStyles=Stijlen:
+FontUnderline=Onderstreept
+FormCaption=OpenSDE - Formulier editor - label eigenschappen
+Preview=Voorbeeld:
+
+[CustomEntryFormEditor_SelectCustomEntryForm]
+FormCaption=OpenSDE - Selecteer persoonlijk formulier
+ItemText_BrokenLink=<Verbroken koppeling>
+ItemText_No=Nee
+ItemText_Yes=Ja
+ListBoxHeader_Checked=Gecontroleerd
+ListBoxHeader_CustomEntryForm=Persoonlijk formulier
+ListBoxHeader_DomainModelItem=Gegevens-onderdeel
+
+[General]
+Button_Cancel=&Annuleer
+Button_OK=OK
+CustomizationOnlyWithLatestVersion=Deze gebruikers-instellingen kunnen alleen veranderd worden met het meest recente vrijgegevendomeinmodel.
+SaveChanges=Wijzigingen bewaren?
+TopNode=top
+
+[MainForm]
+Action_CustomEntryFormEditor_Caption=&Editor...
+Action_CustomEntryFormEditor_Hint=Persoonlijke formulieren editor

@@ -1,0 +1,43 @@
+[General]
+Caption_Close=Close
+Caption_OK=OK
+Caption_Cancel=Cancel
+
+[Image]
+ComponentCaption=Image
+Form_Caption=Image
+Caption_Caption=Caption:
+Caption_FileName=Filename:
+Caption_Size=Size:
+Caption_Preview=Preview
+
+[InternetExplorer]
+ComponentCaption=Internet Explorer
+Caption_Form=Internet Explorer
+Caption_Caption=Caption:
+Caption_URL=URL:
+Caption_Width=Width:
+Caption_Height=Height:
+
+[RichText]
+ComponentCaption=Richtext
+Caption_Form=RichText
+Caption_Caption=Caption:
+Caption_FileName=FileName:
+Caption_Width=Width:
+Caption_Height=Height:
+
+[ShellExecute]
+ComponentCaption=Shell Execute
+Caption_Form=Shell Execute
+Caption_Interface=Interface:
+Caption_Interface_Button=Button
+Caption_Interface_Hyperlink=Hyperlink
+Caption_Caption=Caption:
+Caption_Hint=Hint:
+Caption_FileName=Filename:
+Caption_Parameters=Parameters:
+Format_OpenError=Error: unable to open file "%s".
+
+[EntryFormOptions]
+ComponentCaption=Entryform options
